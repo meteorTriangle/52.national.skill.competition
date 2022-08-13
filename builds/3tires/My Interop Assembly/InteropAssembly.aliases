@@ -1,0 +1,5 @@
+[My Computer]
+My Computer="localhost"
+
+[NI-myRIO-1900-Triangle]
+NI-myRIO-1900-Triangle="172.16.0.1"

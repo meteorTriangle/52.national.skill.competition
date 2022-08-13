@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Config>
+<FileFormatVersion>1</FileFormatVersion>
+<AnalyzeProject>FALSE</AnalyzeProject>
+<ProjectPath>""</ProjectPath>
+<TargetIndex>0</TargetIndex>
+<ItemsToAnalyze>
+	<Item>
+		<Path>"..\\20220302\\20220302-main.vi"</Path>
+		<Removed>FALSE</Removed>
+	</Item>
+</ItemsToAnalyze>
+<TestConfigData>
+	<Test>
+		<Name>"Front Panel Property and Invoke Nodes"</Name>
+		<Ranking>1</Ranking>
+		<MaxFailures>5</MaxFailures>
+		<BasePath>"LabVIEW"</BasePath>
+		<RelativePath>"project\\_VI Analyzer\\_tests\\Real-Time Module\\Front Panel Property and Invoke Nodes.llb"</RelativePath>
+		<Selected>TRUE</Selected>
+		<Controls>
+		</Controls>
+	</Test>
+	<Test>
+		<Name>"Timed Structures in Time Critical VIs"</Name>
+		<Ranking>1</Ranking>
+		<MaxFailures>5</MaxFailures>
+		<BasePath>"LabVIEW"</BasePath>
+		<RelativePath>"project\\_VI Analyzer\\_tests\\Real-Time Module\\Timed Structures in Time Critical VIs.llb"</RelativePath>
+		<Selected>TRUE</Selected>
+		<Controls>
+		</Controls>
+	</Test>
+	<Test>
+		<Name>"Unbounded Code in Time Critical VIs"</Name>
+		<Ranking>1</Ranking>
+		<MaxFailures>5</MaxFailures>
+		<BasePath>"LabVIEW"</BasePath>
+		<RelativePath>"project\\_VI Analyzer\\_tests\\Real-Time Module\\Unbounded Code in Time Critical VIs.llb"</RelativePath>
+		<Selected>TRUE</Selected>
+		<Controls>
+		</Controls>
+	</Test>
+	<Test>
+		<Name>"Unbounded Code in Timed Structures"</Name>
+		<Ranking>1</Ranking>
+		<MaxFailures>5</MaxFailures>
+		<BasePath>"LabVIEW"</BasePath>
+		<RelativePath>"project\\_VI Analyzer\\_tests\\Real-Time Module\\Unbounded Code in Timed Structures.llb"</RelativePath>
+		<Selected>TRUE</Selected>
+		<Controls>
+		</Controls>
+	</Test>
+</TestConfigData>
+<ExclusionData>
+</ExclusionData>
+</Config>

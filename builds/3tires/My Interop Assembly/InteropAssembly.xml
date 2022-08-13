@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>InteropAssembly</name>
+  </assembly>
+  <members>
+    <member name="M:InteropAssembly.LabVIEWExports.vaj___32timing___32control___40new___41(System.Double,System.Double,System.Double,System.Double,InteropAssembly.Cluster[]@)">
+      <summary></summary>
+      <returns>Void</returns>
+    </member>
+  </members>
+</doc>
